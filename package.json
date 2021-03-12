@@ -1,0 +1,29 @@
+{
+  "name": "nexon-sb-abandoned",
+  "version": "1.0.0",
+  "description": "my abandoned sb project (thought people could scrape some code or use it for a selfbot foundation)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NathanDevJS / Nexon",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "discord.js-selfbot": "^12.0.2",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "progress": "^2.0.3",
+    "sqlite": "^4.0.19"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "github.com/nathandevjs/abandonedsb"
+  },
+  "keywords": [
+    "selfbot",
+    "discord",
+    "source"
+  ]
+}
